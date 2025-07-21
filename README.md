@@ -4,7 +4,6 @@ This project contains a Power BI dashboard analyzing sales data to extract valua
 
 ## 📁 Files Included:
 - `sales_dashboard.pdf` – Exported Power BI dashboard
-- `dashboard_demo.mp4` – Screen recording of the dashboard in action
 
 ## 🔍 Features:
 - Total sales overview
